@@ -7,7 +7,7 @@
            remote="github"
            sync-j="10" />
 
-  <project name="fire/com-chibifire-simple-class-gdnativescript-plugin.git" remote="github" path="." />
+  <project name="fire/com-chibifire-fbx-plugin.git" remote="github" path="." />
   <project name="facebookincubator/FBX2glTF.git" remote="github" path="thirdparty/FBX2glTF" />
   <project name="google/draco" remote="github" revision="refs/tags/1.2.0" path="thirdparty/draco" />
   <project name="google/mathfu" remote="github" revision="refs/tags/v1.1.0" path="thirdparty/mathfu" /> 
