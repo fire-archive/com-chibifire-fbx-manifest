@@ -7,6 +7,13 @@
            remote="github"
            sync-j="10" />
 
-  <project name="fire/com-chibifire-simple-class-gdnativescript-plugin.git" remote="github" />
-  <project name="godotengine/godot.git" remote="github" path="thirdparty"/>
+  <project name="fire/com-chibifire-simple-class-gdnativescript-plugin.git" remote="github" path="." />
+  <project name="facebookincubator/FBX2glTF.git" remote="github" path="thirdparty/FBX2glTF" />
+  <project name="google/draco" remote="github" revision="refs/tags/1.2.0" path="thirdparty/draco" />
+  <project name="google/mathfu" remote="github" revision="refs/tags/v1.1.0" path="thirdparty/mathfu" /> 
+  <project name="nlohmann/fifo_map" remote="github" path="thirdparty/fifo_map" />
+  <project name="nlohmann/json" remote="github" revision="refs/tags/v2.1.1" path="thirdparty/json" /> 
+  <project name="nothings/stb" remote="github" path="thirdparty/stb" />
+  <project name="jarro2783/cxxopts" remote="github" revision="refs/tags/v1.4.4" path="thirdparty/cxxopts" />
+  <project name="fmtlib/fmt" remote="github" revision="refs/tags/4.0.0" path="thirdparty/fmt" /> 
 </manifest>
