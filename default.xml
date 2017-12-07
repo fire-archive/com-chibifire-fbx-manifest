@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+           fetch="ssh://git@github.com" />
+
+  <default revision="refs/heads/master"
+           remote="github"
+           sync-j="10" />
+
+  <project name="fire/com-chibifire-simple-class-gdnativescript-plugin.git" remote="github" />
+  <project name="godotengine/godot.git" remote="github" path="thirdparty"/>
+</manifest>
