@@ -3,7 +3,6 @@
 Read: https://github.com/esrlabs/git-repo
 
 ```
-## TODO FIX
 repo init -u https://github.com/fire/com-chibifire-fbx-manifest.git --no-repo-verify
 ``` 
 
