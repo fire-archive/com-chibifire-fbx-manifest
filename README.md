@@ -4,7 +4,7 @@ Read: https://github.com/esrlabs/git-repo
 
 ```
 ## TODO FIX
-repo init -u git@gitlab.com:fire/repo-aquawater.git --no-repo-verify
+repo init -u https://github.com/fire/com-chibifire-fbx-manifest.git --no-repo-verify
 ``` 
 
 Reference:
