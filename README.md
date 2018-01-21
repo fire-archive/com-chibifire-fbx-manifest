@@ -3,7 +3,7 @@
 Read: https://github.com/esrlabs/git-repo
 
 ```
-#Git Bash
+# Git Bash
 mkdir ~/bin
 curl https://raw.githubusercontent.com/esrlabs/git-repo/stable/repo > ~/bin/repo
 curl https://raw.githubusercontent.com/esrlabs/git-repo/stable/repo.cmd > ~/bin/repo.cmd
