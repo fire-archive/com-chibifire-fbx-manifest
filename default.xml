@@ -10,7 +10,7 @@
   <project name="godotengine/godot" remote="github" revision="3.0" path="thirdparty/godot" />
   <project name="tplgy/cppcodec" remote="github" path="thirdparty/cppcodec" />
   <project name="BastiaanOlij/godot_headers" remote="github" revision="0cb9ea6e57696c5686f9cd6f9d2a1b2c9b905f26" path="thirdparty/godot-cpp/godot_headers" />
-  <project name="BastiaanOlij/godot-cpp.git" remote="" revision="32aa216babcc9ae63d971825c67f8d3142114c47" path="thirdparty/godot-cpp" />
+  <project name="BastiaanOlij/cpp_bindings" remote="" revision="32aa216babcc9ae63d971825c67f8d3142114c47" path="thirdparty/godot-cpp" />
   <project name="facebookincubator/FBX2glTF.git" remote="github" path="thirdparty/FBX2glTF" />
   <project name="google/draco" remote="github" revision="refs/tags/1.2.0" path="thirdparty/draco" />
   <project name="google/mathfu" remote="github" revision="refs/tags/v1.1.0" path="thirdparty/mathfu" />
