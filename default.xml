@@ -9,7 +9,7 @@
   <project name="fire/com-chibifire-fbx-plugin.git" remote="github" path="." />
   <project name="godotengine/godot" remote="github" revision="3.0" path="thirdparty/godot" />
   <project name="tplgy/cppcodec" remote="github" path="thirdparty/cppcodec" />
-  <project name="GodotNativeTools/godot-cpp" remote="github" path="thirdparty/godot-cpp/godot_headers" />
+  <project name="GodotNativeTools/godot_headers" remote="github" path="thirdparty/godot-cpp/godot_headers" />
   <project name="GodotNativeTools/godot-cpp" remote="" path="thirdparty/godot-cpp" />
   <project name="facebookincubator/FBX2glTF.git" remote="github" path="thirdparty/FBX2glTF" />
   <project name="google/draco" remote="github" revision="refs/tags/1.2.0" path="thirdparty/draco" />
