@@ -12,7 +12,7 @@
   <project name="GodotNativeTools/godot_headers" remote="github" path="thirdparty/godot-cpp/godot_headers" />
   <project name="GodotNativeTools/godot-cpp" remote="" path="thirdparty/godot-cpp" />
   <project name="facebookincubator/FBX2glTF.git" remote="github" revision="d38ccd935f855a777082e4d9164d662381e4faf5" path="thirdparty/FBX2glTF" />
-  <project name="google/draco" remote="github" revision="refs/tags/1.2.0" path="thirdparty/draco" />
+  <project name="google/draco" remote="github" revision="refs/tags/1.3.0" path="thirdparty/draco" />
   <project name="google/mathfu" remote="github" revision="refs/tags/v1.1.0" path="thirdparty/mathfu" />
   <project name="scoopr/vectorial" remote="github" path="thirdparty/mathfu/dependencies/vectorial" />  
   <project name="nlohmann/fifo_map" remote="github" path="thirdparty/fifo_map" />
