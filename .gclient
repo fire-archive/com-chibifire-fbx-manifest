@@ -8,7 +8,7 @@ solutions = [
   },
   {
     "name"        : "src/thirdparty/godot",
-    "url"         : "https://github.com/godotengine/godot",
+    "url"         : "https://github.com/godotengine/godot@3.1",
     "deps_file"   : "DEPS",
     "managed"     : True,
     "custom_deps" : {},
@@ -22,14 +22,14 @@ solutions = [
   },
   {
     "name"        : "src/thirdparty/godot-cpp/godot_headers",
-    "url"         : "https://github.com/GodotNativeTools/godot_headers@b98ac387a1407c16536fdde79466f932433adb0b",
+    "url"         : "https://github.com/GodotNativeTools/godot_headers@489db2761c8aa0f49efbbc729dfa728f850f9756",
     "deps_file"   : "DEPS",
     "managed"     : True,
     "custom_deps" : {},
   },
   {
     "name"        : "src/thirdparty/godot-cpp",
-    "url"         : "https://github.com/GodotNativeTools/godot-cpp@342593c78dca5da5d6a29c750bb098301c1612be",
+    "url"         : "https://github.com/GodotNativeTools/godot-cpp@971adbd95590d29d17df621d5a04094b173c77f3",
     "deps_file"   : "DEPS",
     "managed"     : True,
     "custom_deps" : {},
