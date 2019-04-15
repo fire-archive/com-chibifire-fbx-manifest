@@ -22,14 +22,14 @@ solutions = [
   },
   {
     "name"        : "src/thirdparty/godot-cpp/godot_headers",
-    "url"         : "https://github.com/GodotNativeTools/godot_headers@489db2761c8aa0f49efbbc729dfa728f850f9756",
+    "url"         : "https://github.com/GodotNativeTools/godot_headers@3.1",
     "deps_file"   : "DEPS",
     "managed"     : True,
     "custom_deps" : {},
   },
   {
     "name"        : "src/thirdparty/godot-cpp",
-    "url"         : "https://github.com/GodotNativeTools/godot-cpp@971adbd95590d29d17df621d5a04094b173c77f3",
+    "url"         : "https://github.com/GodotNativeTools/godot-cpp@3.1",
     "deps_file"   : "DEPS",
     "managed"     : True,
     "custom_deps" : {},
